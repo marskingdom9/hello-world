@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# hello world repository
+My name is Mayank Singh and this repository is for practicing the GitHub Flow.
+
